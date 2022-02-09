@@ -24,3 +24,16 @@ Otherwise, return {status: "OPEN", change: [...]}, with the change due in coins 
 | One-hundred Dollars | $100 (ONE HUNDRED)   |
 
 See below for an example of a cash-in-drawer array:
+```
+[
+  ["PENNY", 1.01],
+  ["NICKEL", 2.05],
+  ["DIME", 3.1],
+  ["QUARTER", 4.25],
+  ["ONE", 90],
+  ["FIVE", 55],
+  ["TEN", 20],
+  ["TWENTY", 60],
+  ["ONE HUNDRED", 100]
+]
+```
